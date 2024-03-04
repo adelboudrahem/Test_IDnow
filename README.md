@@ -32,21 +32,21 @@ the goal was  to separate the responsibilities of each layer to make your applic
 ### Login
 
 - You can utilize one of the registered users on dummyjson.com/users to log in to the website. ex: username	= "atuny0"  &  password = "9uQFF1Lh"
-- ![Screenshot_20240304_104903](https://github.com/adelboudrahem/Test_IDnow/assets/28858732/803fa3d4-d018-4142-80c6-17788d1666aa)
+- <img src="https://github.com/adelboudrahem/Test_IDnow/assets/28858732/803fa3d4-d018-4142-80c6-17788d1666aa" width=50% height=50%>
 
 
 
 ### Search
 
 - You can utilize the search bar located at the top of the main page to search for products. The search results will be displayed on the same page for your convenience.
-- ![Screenshot_20240304_105109](https://github.com/adelboudrahem/Test_IDnow/assets/28858732/c1b51dc7-e749-4ba4-bb9b-955dcde9df7d)
+- <img src="https://github.com/adelboudrahem/Test_IDnow/assets/28858732/c1b51dc7-e749-4ba4-bb9b-955dcde9df7d" width=50% height=50%>
 
 
 
 ### Product Detail
 
 - You can view the details of products registered on dummyjson.com/products directly within the application.
-- ![Screenshot_20240304_105434](https://github.com/adelboudrahem/Test_IDnow/assets/28858732/1a662f5b-9730-4fec-879a-400ab3fb3d11)
+- <img src="https://github.com/adelboudrahem/Test_IDnow/assets/28858732/1a662f5b-9730-4fec-879a-400ab3fb3d11" width=50% height=50%>
 
 
 
